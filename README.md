@@ -16,8 +16,6 @@ By using Amazon Web Services (AWS) cloud computing resources, my project aims to
 
 `source env/bin/activate`
 
-`pip install -r requirements.txt`
-
 'New Version will throw an error due to version conflicts'
 
 ```python
