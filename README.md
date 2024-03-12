@@ -2,9 +2,9 @@
 
 By using Amazon Web Services (AWS) cloud computing resources, my project aims to build a robust cosmetics e-commerce website.
 
-# Installation
+# Instructions for installation
 
-`git clone `
+`git clone https://github.com/Annurag99/CPP-Cosmetic-Retail.git`
 
 `cd CPP-Cosmetic-Retail`
 
@@ -12,18 +12,18 @@ By using Amazon Web Services (AWS) cloud computing resources, my project aims to
 
 `virtualenv env`
 
-# For Mac/ Linux
+# Mac/Linux
 
 `source env/bin/activate`
 
-# For Admin Login
+# Admin Login
 
 ```python
 python manage.py createsuperuser
 Username: admin
 Password: 12345678
 ```
-# Demo
+# Demo & Static Pages
 
 
 
