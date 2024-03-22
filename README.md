@@ -10,7 +10,7 @@ By using Amazon Web Services (AWS) cloud computing resources, my project aims to
 
 `pip install virtualenv`
 
-`virtualenv env`
+`virtualenv env` or `python -m venv env`
 
 # Mac/Linux
 
@@ -42,8 +42,8 @@ to ALLOWED_HOSTS inside the demo folder in the settings.py file.
 
 ```python
 python3 manage.py createsuperuser
-Username: admin
-Password: 12345678
+Username: add
+Password: add
 ```
 # Demo & Static Pages
 
