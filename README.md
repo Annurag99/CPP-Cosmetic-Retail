@@ -30,6 +30,10 @@ pip install Pillow
 ```
 `python3 manage.py makemigrations`
 
+if throws error update Pip and Setuptools
+
+`pip install --upgrade pip setuptools`
+
 `python3 manage.py migrate`
 
 `python3 manage.py runserver 8080`
